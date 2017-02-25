@@ -1,0 +1,62 @@
+h2 {
+	color: white;
+}
+
+img {
+	border-style: solid;
+	border-color: black;
+}
+
+.me {
+	border-style: solid;
+	border-color: black;
+	border-radius: 50%;
+	margin-left: 60px;
+	margin-top: 20px;
+}
+
+#name {
+	color:white;
+	margin-left: 50px;
+}
+
+.socialMediaIcons {
+	margin-left: 50px;
+}
+
+#githubIcon {
+	filter: invert(100%);
+}
+
+
+#sidebar {
+	float: left;
+	position: fixed;
+	background-color: blue;
+	width: 35%;
+	height: 100%;
+	background-image: url("venue.jpg");
+
+}
+
+#sidebar p {
+	color: white;
+	margin-right: 10px;
+}
+
+
+#contentSide {
+	background-color: white;
+	float: right;
+	width: 65%;
+	height: 100%;
+}
+
+#aboutMe {
+	margin-left:10px; 
+}
+
+#aboutMe h3 {
+	text-align: center;
+}
+
